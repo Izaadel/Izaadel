@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=42C920&width=600&lines=Hello+Word!+I'm+Isabela+Del+Vecchio.)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-del-vecchio-bueno-goes-80346a182/)
+[![E-mail](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](delvecchioisabela@gmail.com)
 
 ![Izaadel GitHub stats](https://github-readme-stats.vercel.app/api?username=Izaadel&show_icons=true&theme=radical)
 
