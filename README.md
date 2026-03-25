@@ -1,20 +1,35 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=42C920&width=600&lines=Hello+Word!+I'm+Isabela+Del+Vecchio.)](https://git.io/typing-svg)
+<div align="center">
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=42C920&center=true&vCenter=true&width=600&lines=Olá,+sou+Isabela+Del+Vecchio;Data+Enthusiast+%26+AI+Researcher)](https://git.io/typing-svg)
+
+<div>
+  <img src="https://img.shields.io/badge/Formação-Análise%20e%20Desenv.%20de+Sistemas-brightgreen?style=flat-square&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pós--Graduação-Análise%20de%20Dados-blue?style=flat-square&logo=databricks&logoColor=white" />
+</div>
+
+<br />
+
+> Atualmente focada em análise preditiva e automação de processos.
 
 
 
-![Izaadel GitHub stats](https://github-readme-stats.vercel.app/api?username=Izaadel&show_icons=true&theme=radical)
+###  Minha Stack de Dados
 
-## Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+</p>
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 
-</div> 
+###  GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Izaadel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaadel&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
- ##
-  
- ![Snake animation](https://github.com/Mech24689/Mech24689/blob/output/github-contribution-grid-snake.svg)
+
+</div>
