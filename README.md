@@ -9,7 +9,7 @@
 
 <br />
 
-> Atualmente focada em análise preditiva e automação de processos.
+> Atualmente focada em análise preditiva, automação de processos e IA Generativa.
 
 
 
